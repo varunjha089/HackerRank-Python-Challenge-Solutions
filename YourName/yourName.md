@@ -28,3 +28,8 @@ Hello Ross Taylor! You just delved into python.
 ##Explanation 0
 
 The input read by the program is stored as a string data type. A string is a collection of characters.
+
+## My Result
+
+All test case passed.
+![Your Name](yourName.png)

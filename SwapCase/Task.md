@@ -30,3 +30,9 @@ Print the modified string .
 
 All test case passed.
 ![test case passed](test_case_passed.png)
+
+### Some useful links:
+
+[https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/](https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/)
+
+[https://www.geeksforgeeks.org/python-split-string-into-list-of-characters/](https://www.geeksforgeeks.org/python-split-string-into-list-of-characters/)

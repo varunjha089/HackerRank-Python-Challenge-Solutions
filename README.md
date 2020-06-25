@@ -10,3 +10,4 @@ This is my solution to [HackerRank](https://www.hackerrank.com) Python challenge
 |   02	|   String Split And Join	|   22-06-2020 |   [Link](/String%20Split%20And%20Join/)   |
 |   03	|   What's Your Name?	|   22-06-2020  |   [Link](/YourName/)   |
 |   04	|   Mutations	|   25-06-2020  |   [Link](/Mutations/)   |
+|   05	|   Find-a-string	|   25-06-2020  |   [Link](/Find-a-string/)   |

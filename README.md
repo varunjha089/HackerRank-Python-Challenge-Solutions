@@ -11,3 +11,4 @@ This is my solution to [HackerRank](https://www.hackerrank.com) Python challenge
 |   03	|   What's Your Name?	|   22-06-2020  |   [Link](/YourName/)   |
 |   04	|   Mutations	|   25-06-2020  |   [Link](/Mutations/)   |
 |   05	|   Find-a-string	|   25-06-2020  |   [Link](/Find-a-string/)   |
+|   06	|   String-Validators	|   26-06-2020  |   [Link](/String-Validators/)   |

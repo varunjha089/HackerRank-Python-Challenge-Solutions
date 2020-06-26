@@ -3,6 +3,10 @@ def word_split(word):
 
 
 def alphanumeric_characters(list):
+    """
+
+        :type list: object
+    """
     bool_alnum = []
     final_value = True
     for i in range(len(list)):
@@ -14,6 +18,10 @@ def alphanumeric_characters(list):
 
 
 def alphabetical_characters(list):
+    """
+
+        :type list: object
+    """
     bool_alpha = []
     final_value = False
     for i in range(len(list)):
@@ -25,6 +33,10 @@ def alphabetical_characters(list):
 
 
 def digit(list):
+    """
+
+    :type list: object
+    """
     bool_digit = []
     final_value = True
     for i in range(len(list)):
@@ -36,6 +48,10 @@ def digit(list):
 
 
 def lowercase_characters(list):
+    """
+
+        :type list: object
+    """
     bool_lowercase_characters = []
     final_value = True
     for i in range(len(list)):
@@ -47,6 +63,10 @@ def lowercase_characters(list):
 
 
 def uppercase_characters(list):
+    """
+
+        :type list: object
+    """
     bool_uppercase_characters = []
     final_value = True
     for i in range(len(list)):

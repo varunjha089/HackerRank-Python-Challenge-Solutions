@@ -14,3 +14,4 @@ This is my solution to [HackerRank](https://www.hackerrank.com) Python challenge
 |   06	|   String-Validators	|   26-06-2020  |   [Link](/String-Validators/)   |
 |   07	|   Finding the percentage**^**	|   28-06-2020  |   [Link](/Finding-the-Percentage/)   |
 |   08	|   Calendar Module	|   28-06-2020  |   [Link](/Calendar-Module/)   |
+|   09	|   Power - Mod Power	|   01-07-2020  |   [Link](/Mod-Power/)   |
